@@ -1,6 +1,8 @@
 # Projeto de Cadastro de Usuário
 
 Este é um projeto simples de cadastro de usuário desenvolvido em Java para web, utilizando JSP, Spring MVC e Bootstrap.
+<img width="1352" height="603" alt="image" src="https://github.com/user-attachments/assets/f17d57d6-7dc9-48c0-9514-cfddd26148ca" />
+
 
 ## Funcionalidades
 
@@ -15,9 +17,7 @@ Este é um projeto simples de cadastro de usuário desenvolvido em Java para web
   - Cidade
   - Estado
   - Número
-  - Complemento
-- Preenchimento automático dos campos de endereço (Rua, Bairro, Cidade e Estado) a partir do CEP informado, utilizando a API ViaCEP.
-- Validação de formulário.
+  - Complemento.
 
 ## Tecnologias Utilizadas
 
